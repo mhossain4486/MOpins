@@ -47,4 +47,4 @@ end
 
 gem 'bootstrap-sass'
 gem 'devise'
-gem 'paperclip', '~> 3.0'
+gem 'paperclip', '~> 3.5.3'

@@ -144,7 +144,7 @@ DEPENDENCIES
   devise
   jbuilder (~> 2.0)
   jquery-rails
-  paperclip (~> 3.0)
+  paperclip (~> 3.5.3)
   pg
   rails (= 4.1.6)
   rails_12factor
